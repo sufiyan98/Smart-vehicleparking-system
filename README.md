@@ -1,1 +1,1 @@
-# Smart-vehicleparking-system
+# Smart-parking-system
